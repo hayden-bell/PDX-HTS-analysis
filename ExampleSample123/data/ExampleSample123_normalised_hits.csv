@@ -1,0 +1,112 @@
+Item Name,CatalogNumber,CAS Number,Pathway,Target,Information,SMILES,mean viability,std viability
+(R)-Crizotinib,A3020,877399-52-5,Tyrosine Kinase,c-MET,"C-MET/ALK inhibitor,potent and ATP-competitve",CC(C1=C(C=CC(=C1Cl)F)Cl)OC2=C(N=CC(=C2)C3=CN(N=C3)C4CCNCC4)N,12.2,14.7
+(S)-10-Hydroxycamptothecin,B4745,19685-09-7,DNA Damage/DNA Repair,Topoisomerase,1,1,-5.0,0.9
+ABT-263 (Navitoclax),A3007,923564-51-6,Apoptosis,Bcl-2 Family,"Potent Bcl-2 family inhibitor, inhibits Bcl-2, Bcl-xL, and Bcl-w",CC(CC1)(C)CC(CN2CCN(C3=CC=C(C(NS(C4=CC=C(N[C@@H](CSC5=CC=CC=C5)CCN6CCOCC6)C(S(C(F)(F)F)(=O)=O)=C4)(=O)=O)=O)C=C3)CC2)=C1C7=CC=C(Cl)C=C7,20.9,19.0
+AXL1717,A3209,477-47-4,Tyrosine Kinase,IGF1R,1,1,8.1,17.6
+AZD6244 (Selumetinib),A8207,606143-52-6,MAPK Signaling,MEK1/2,MEK inhibitor,CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)Cl)C(=O)NOCCO,24.5,16.8
+Actinomycin D,A4448,50-76-0,Apoptosis,Apoptosis Inducers,1,1,-15.4,13.0
+Adapalene,A1267,106685-40-9,Others,Others,RARβ and RARγ agonist,COC1=C(C=C(C=C1)C2=CC3=C(C=C2)C=C(C=C3)C(=O)O)C45CC6CC(C4)CC(C6)C5,32.3,5.4
+Adefovir Dipivoxil,B2222,142340-99-6,Microbiology & Virology,CMV,Reverse transcriptase inhibitor,CC(C)(C)C(=O)OCOP(=O)(COCCN1C=NC2=C1N=CN=C2N)OCOC(=O)C(C)(C)C,-5.2,2.5
+Afatinib (BIBW2992),A8247,439081-18-2,JAK/STAT Signaling,EGFR,Irreversible EGFR/HER2 inhibitor,CN(C)CC=CC(=O)NC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=C(C=C3)F)Cl)OC4CCOC4,33.1,4.7
+Afatinib dimaleate,A3145,850140-73-7,Tyrosine Kinase,HER2,EGFR inhibitor,CN(C)CC=CC(=O)NC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=C(C=C3)F)Cl)OC4CCOC4.C(=CC(=O)O)C(=O)O.C(=CC(=O)O)C(=O)O,42.3,7.6
+Afuresertib,B4811,1047644-62-1,PI3K/Akt/mTOR Signaling,PKB,pan-AKT inhibitor,CN1C(=C(C=N1)Cl)C2=C(SC(=C2)C(=O)NC(CC3=CC(=CC=C3)F)CN)Cl,43.3,3.6
+Amsacrine hydrochloride,B1303,54301-15-4,DNA Damage/DNA Repair,Topoisomerase,1,1,8.8,6.0
+Angiotensin II,A1042,4474-91-3,Cardiovascular,Angiotensin Receptor,1,1,43.7,51.0
+Artemether,N1742,71963-77-4,Natural Products,Anti-infection,1,[H][C@@]1(C([H])([H])C2([H])[H])[C@]3([C@@]([C@@]4([H])C([H])([H])[H])([H])C([H])([H])C([H])([H])[C@@]1([H])C([H])([H])[H])OOC2(C([H])([H])[H])O[C@@]3([H])O[C@]4([H])OC([H])([H])[H],48.3,6.1
+Aspirin (Acetylsalicylic acid),A4013,50-78-2,Neuroscience,COX,Cyclooxygenase (COX) inhibitor,CC(=O)OC1=CC=CC=C1C(=O)O,16.3,29.0
+Bardoxolone methyl,A3221,218600-53-4,Chromatin/Epigenetics,JAK,"IKK inhibitor, potent antioxidant inflammation modulator",CC1(CCC2(CCC3(C(C2C1)C(=O)C=C4C3(CCC5C4(C=C(C(=O)C5(C)C)C#N)C)C)C)C(=O)OC)C,29.2,21.2
+"Baricitinib (LY3009104, INCB028050)",A4141,1187594-09-7,Chromatin/Epigenetics,JAK,"JAK1/JAK2 inhibitor,selective orally bioavailable",CCS(=O)(=O)N1CC(C1)(CC#N)N2C=C(C=N2)C3=C4C=CNC4=NC=N3,23.6,8.6
+Baricitinib phosphate,A3222,1187595-84-1,Chromatin/Epigenetics,JAK,JAK1/JAK2 inhibitor,CCS(=O)(=O)N1CC(C1)(CC#N)N2C=C(C=N2)C3=C4C=CNC4=NC=N3.OP(=O)(O)O,31.3,11.4
+Batimastat (BB-94),A2577,130370-60-4,Proteases,MMP,MMP inhibitor,CNC([C@@H](NC([C@@H]([C@H](CSC1=CC=CS1)C(NO)=O)CC(C)C)=O)CC2=CC=CC=C2)=O,45.1,40.7
+Bortezomib (PS-341),A2614,179324-69-7,Ubiquitination/Proteasome,Proteasome,1,1,-9.0,3.5
+Bosutinib (SKI-606),A2149,380843-75-4,TGF-β / Smad Signaling,Bcr-Abl,Potent Abl/Src kinases,CN1CCN(CC1)CCCOC2=C(C=C3C(=C2)N=CC(=C3NC4=CC(=C(C=C4Cl)Cl)OC)C#N)OC,31.7,25.4
+CEP-18770,A4009,847499-27-8,Ubiquitination/Proteasome,Proteasome,Proteasome inhibitor,B(C(CC(C)C)NC(=O)C(C(C)O)NC(=O)C1=CC=CC(=N1)C2=CC=CC=C2)(O)O,-5.1,19.4
+Cabozantinib malate (XL184),B1401,1140909-48-3,Tyrosine Kinase,c-MET,MET andVEGF receptor2 inhibitor,COC1=CC2=C(C=CN=C2C=C1OC)OC3=CC=C(C=C3)NC(=O)C4(CC4)C(=O)NC5=CC=C(C=C5)F.C(C(C(=O)O)O)C(=O)O,48.2,3.7
+Carboplatin,A2171,41575-94-4,DNA Damage/DNA Repair,DNA Synthesis,Antitumor agent that forms platinum-DNA adducts.,C1CC(C1)(C(=O)[O-])C(=O)[O-].N.N.[Pt+2],20.5,2.3
+Carfilzomib (PR-171),A1933,868540-17-4,Ubiquitination/Proteasome,Proteasome,"Proteasome inhibitor,epoxomicin analog",CC(C)CC(C(=O)C1(CO1)C)NC(=O)C(CC2=CC=CC=C2)NC(=O)C(CC(C)C)NC(=O)C(CCC3=CC=CC=C3)NC(=O)CN4CCOCC4,-12.5,3.1
+Chlorquinaldol,B1698,72-80-0,Microbiology & Virology,Anti-infection,Antifungal and antibacterial,CC1=NC2=C(C=C1)C(=CC(=C2O)Cl)Cl,22.8,4.3
+Cladribine,A2187,4291-63-8,DNA Damage/DNA Repair,DNA Synthesis,Apoptosis inducer in CLL cells,C1C(C(OC1N2C=NC3=C2N=C(N=C3N)Cl)CO)O,-10.0,5.3
+Clobetasol propionate,B1915,25122-46-7,GPCR/G protein,Glucocorticoid Receptor,Glucocorticoid receptor agonist,CCC(=O)OC1(C(CC2C1(CC(C3(C2CCC4=CC(=O)C=CC43C)F)O)C)C)C(=O)CCl,48.7,3.1
+Clofarabine,A1412,123318-82-1,DNA Damage/DNA Repair,DNA Synthesis,"Antimetabolite,inhibit DNA polymerase and ribonucleotide reductase",C1=NC2=C(N1C3C(C(C(O3)CO)O)F)N=C(N=C2N)Cl,-5.2,8.9
+Clomiphene citrate,B1504,50-41-9,Endocrinology and Hormones,Estrogen/progestogen Receptor,Selective estrogen receptor modulator,CCN(CC)CCOC1=CC=C(C=C1)C(=C(C2=CC=CC=C2)Cl)C3=CC=CC=C3.C(C(=O)O)C(CC(=O)O)(C(=O)O)O,38.7,0.7
+Cobimetinib,A3321,934660-93-2,MAPK Signaling,MEK1/2,Selective MEK inhibitor,C1CCNC(C1)C2(CN(C2)C(=O)C3=C(C(=C(C=C3)F)F)NC4=C(C=C(C=C4)I)F)O,18.5,5.7
+Colchicine,A3324,64-86-8,Cell Cycle/Checkpoint,Microtubule/Tubulin,Tubulin Inhibitor,CC(=O)NC1CCC2=CC(=C(C(=C2C3=CC=C(C(=O)C=C13)OC)OC)OC)OC,-5.8,13.8
+Crizotinib hydrochloride,B3608,1415560-69-8,Tyrosine Kinase,ALK,inhibitor of the c-Met kinase and the NPM-ALK,C[C@](OC(C=C(C(C=N1)=CN1C2CCNCC2)C=N3)=C3N)([H])C4=C(Cl)C=CC(F)=C4Cl.Cl,8.8,0.2
+Crystal Violet,B1920,548-62-9,Others,Others,triarylmethane dye,CN(C)C1=CC=C(C=C1)C(=C2C=CC(=[N+](C)C)C=C2)C3=CC=C(C=C3)N(C)C.[Cl-],-7.7,2.4
+Cytarabine,A8405,147-94-4,DNA Damage/DNA Repair,DNA Synthesis,"cytotoxic agent, blocks DNA synthesis",C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)O,-17.9,3.0
+Daunorubicin HCl,B2285,23541-50-6,Microbiology & Virology,Antibiotic,DNA topoisomerase II inhibitor,Cl[H].O=C(C([H])([H])[H])[C@@](C([H])([H])[C@]1([H])O[C@](C([H])([H])[C@]2([H])N([H])[H])([H])O[C@](C([H])([H])[H])([H])[C@@]2([H])O[H])(C([H])([H])C3=C1C(O[H])=C(C(C4=C5C([H])=C([H])C([H])=C4OC([H])([H])[H])=O)C(C5=O)=C3O[H])O[H],-12.5,7.1
+"Decitabine (NSC127716, 5AZA-CdR)",A1906,2353-33-5,Chromatin/Epigenetics,DNA Methyltransferase,Deoxycytidine analog and cellular diifferentiation inducer,C1C(C(OC1N2C=NC(=NC2=O)N)CO)O,29.9,20.1
+Dexamethasone acetate,B1926,1177-87-3,GPCR/G protein,Glucocorticoid Receptor,IL Receptor modulator,CC1CC2C3CCC4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)COC(=O)C)O)C)O)F)C,49.3,14.1
+Dichlorphenamide,A8408,120-97-8,Metabolism,Carbonic Anhydrase,1,1,-9.0,3.5
+Docetaxel,A4394,114977-28-5,Cell Cycle/Checkpoint,Microtubule/Tubulin,Microtubulin disassembly inhibitor,O=C(N[C@H]([C@H](C(O[C@H]1C[C@]2(O)C(C)(C)C([C@@H](O)C([C@@]3(C)[C@]([C@@](CO4)(OC(C)=O)[C@@]4([H])C[C@@H]3O)([H])[C@@H]2OC(C5=CC=CC=C5)=O)=O)=C1C)=O)O)C6=CC=CC=C6)OC(C)(C)C,8.4,7.6
+Doramectin,A3371,117704-25-3,Microbiology & Virology,Antibiotic,1,1,30.1,1.2
+"Dovitinib (TKI-258, CHIR-258)",A2168,405169-16-6,Tyrosine Kinase,FGFR,Multitargeted RTK inhibitor,CN1CCN(CC1)C2=CC3=C(C=C2)NC(=C4C(=C5C(=NC4=O)C=CC=C5F)N)N3,6.0,10.6
+Doxorubicin,A3966,23214-92-8,DNA Damage/DNA Repair,Topoisomerase,"Topo II inhibitor,immunosuppresive antineoplastic antibiotic",CC1C(C(CC(O1)OC2CC(CC3=C(C4=C(C(=C23)O)C(=O)C5=C(C4=O)C=CC=C5OC)O)(C(=O)CO)O)N)O,-19.0,3.1
+Doxorubicin (Adriamycin) HCl,A1832,25316-40-9,DNA Damage/DNA Repair,Topoisomerase,"Antitumour antibiotic,inhibits TOPO II.",CC1C(C(CC(O1)OC2CC(CC3=C(C4=C(C(=C23)O)C(=O)C5=C(C4=O)C=CC=C5OC)O)(C(=O)CO)O)N)O.Cl,-10.8,10.2
+Dutasteride,A1659,164656-23-9,Endocrinology and Hormones,5-alpha Reductase,5-alpha-reductase inhibitor,CC12CCC3C(C1CCC2C(=O)NC4=C(C=CC(=C4)C(F)(F)F)C(F)(F)F)CCC5C3(C=CC(=O)N5)C,5.1,8.5
+Epirubicin HCl,A2451,56390-09-1,DNA Damage/DNA Repair,Topoisomerase,Antibiotic antitumor agent,CC1C(C(CC(O1)OC2CC(CC3=C(C4=C(C(=C23)O)C(=O)C5=C(C4=O)C=CC=C5OC)O)(C(=O)CO)O)N)O.Cl,-12.8,3.9
+"Epothilone B (EPO906, Patupilone)",A1630,152044-54-7,Cell Cycle/Checkpoint,Microtubule/Tubulin,Microtubule stabilizing macrolide,CC1CCCC2(C(O2)CC(OC(=O)CC(C(C(=O)C(C1O)C)(C)C)O)C(=CC3=CSC(=N3)C)C)C,7.0,8.0
+Ethacridine lactate monohydrate,B1749,6402-23-9,Microbiology & Virology,Anti-infection,Antiseptic agent,CCOC1=CC2=C(C3=C(C=C(C=C3)N)N=C2C=C1)N.CC(C(=O)O)O.O,44.3,10.3
+Etoposide,A1971,33419-42-0,DNA Damage/DNA Repair,Topoisomerase,Topo II inhibitor,CC1OCC2C(O1)C(C(C(O2)OC3C4COC(=O)C4C(C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)O)OC)O)O,1.5,15.2
+Fenbendazole,A2610,43210-67-9,Others,Others,For pinworm treatment in animals,COC(=O)NC1=NC2=C(N1)C=C(C=C2)SC3=CC=CC=C3,22.2,3.8
+Fenretinide,A3412,65646-68-6,Others,RAR/RXR,1,1,40.2,6.2
+Floxuridine,A2402,50-91-9,DNA Damage/DNA Repair,DNA Synthesis,Antineoplastic antimetabolite,C1C(C(OC1N2C=C(C(=O)NC2=O)F)CO)O,39.9,0.4
+Flubendazole,B1759,31430-15-6,Ubiquitination/Proteasome,Autophagy,Autophagy activator,COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C3=CC=C(C=C3)F,21.5,9.8
+Fludarabine,A5424,21679-14-1,DNA Damage/DNA Repair,DNA Synthesis,DNA synthsis inhibitor,C1=NC2=C(N1C3C(C(C(O3)CO)O)O)N=C(N=C2N)F,1.4,8.0
+Flumethasone,B1761,2135-17-3,GPCR/G protein,Glucocorticoid Receptor,Glucocorticoid receptor agonist,CC1CC2C3CC(C4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CO)O)C)O)F)C)F,39.9,14.7
+Foretinib (GSK1363089),A2974,849217-64-7,Tyrosine Kinase,VEGFR,VEGF and HGF receptor inhibitor,COC1=CC2=C(C=CN=C2C=C1OCCCN3CCOCC3)OC4=C(C=C(C=C4)NC(=O)C5(CC5)C(=O)NC6=CC=C(C=C6)F)F,8.9,11.2
+GSK2126458,A8556,1086062-66-9,PI3K/Akt/mTOR Signaling,mTOR,PI3K/mTOR inhibitor,COC1=C(C=C(C=N1)C2=CC3=C(C=CN=C3C=C2)C4=CN=NC=C4)NS(=O)(=O)C5=C(C=C(C=C5)F)F,12.9,16.6
+Gabapentin,A8436,60142-96-3,Neuroscience,GABA Receptor,GABA enhancer,C1CCC(CC1)(CC(=O)O)CN,15.9,0.1
+Ganetespib (STA-9090),A4385,888216-25-9,Proteases,HSP,"Hsp90 inhibitor,non-geldanamycin",CC(C)C1=CC(=C2NNC(=O)N2C3=CC4=C(C=C3)N(C=C4)C)C(=O)C=C1O,-5.3,8.8
+Gemcitabine,A8437,95058-81-4,DNA Damage/DNA Repair,DNA Synthesis,inhibitor of DNA synthesis,C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)(F)F,0.1,4.0
+Gemcitabine HCl,A1402,122111-03-9,DNA Damage/DNA Repair,DNA Synthesis,"Inhibits DNA synthesis,deoxycytidine analog",C1=CN(C(=O)N=C1N)[C@H]2C([C@@H]([C@H](O2)CO)O)(F)F,2.0,2.0
+IPI-145 (INK1197),A1720,1201438-56-3,PI3K/Akt/mTOR Signaling,PI3K,PI3K-δ/PI3K-γ inhibitor,CC(C1=CC2=C(C(=CC=C2)Cl)C(=O)N1C3=CC=CC=C3)NC4=NC=NC5=C4NC=N5,30.0,10.3
+Idarubicin HCl,A2476,57852-57-0,DNA Damage/DNA Repair,Topoisomerase,"Anthracycline and daunorubicin analog,topoisomerase inhibitor",CC1C(C(CC(O1)OC2CC(CC3=C(C4=C(C(=C23)O)C(=O)C5=CC=CC=C5C4=O)O)(C(=O)C)O)N)O.Cl,-18.6,5.7
+Irinotecan,A5133,97682-44-5,DNA Damage/DNA Repair,Topoisomerase,Topoisomerase I inhibitor,O=C(OC1)C(O)(CC)C2=C1C(N(CC3=C4N=C5C(C=C(OC(N6CCC(N7CCCCC7)CC6)=O)C=C5)=C3CC)C4=C2)=O,21.9,2.0
+Irinotecan HCl Trihydrate,B2293,136572-09-3,DNA Damage/DNA Repair,Topoisomerase,Topoisomerase 1 inhibitor,O=C(N1CCC(CC1)N2CCCCC2)OC3=CC4=C(CC)C5=C(C(N6C5)=CC(C7(CC)O)=C(COC7=O)C6=O)N=C4C=C3.Cl.O.O.O,16.4,5.0
+Ispinesib (SB-715992),A5343,336113-53-2,Cell Cycle/Checkpoint,Ksp,Kinesin spindle protein (KSP)inhibitor,CC1=CC=C(C=C1)C(=O)N(CCCN)C(C2=NC3=C(C=CC(=C3)Cl)C(=O)N2CC4=CC=CC=C4)C(C)C,4.6,0.0
+Kanamycin Sulfate,A2516,25389-94-0,Microbiology & Virology,Antibiotic,Water-soluble antibiotic,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CN)O)O)O)O)OC3C(C(C(C(O3)CO)O)N)O)N.OS(=O)(=O)O,43.0,74.5
+LY2835219,A1794,1231930-82-7,Cell Cycle/Checkpoint,Cyclin-Dependent Kinases,"CDK4/6 inhibitor,potent and selective",CCN1CCN(CC1)CC2=CN=C(C=C2)NC3=NC=C(C(=N3)C4=CC5=C(C(=C4)F)N=C(N5C(C)C)C)F.CS(=O)(=O)O,18.8,4.9
+Linifanib (ABT-869),A2949,796967-16-3,Tyrosine Kinase,VEGFR,VEGFR/PDGFR inhibitor,CC1=CC(=C(C=C1)F)NC(=O)NC2=CC=C(C=C2)C3=C4C(=CC=C3)NN=C4N,28.9,13.4
+Lonafarnib,A4379,193275-84-2,Metabolism,Transferase,"Ftase inhibitor,potent and selective",C1CN(CCC1CC(=O)N2CCC(CC2)C3C4=C(C=C(C=C4CCC5=CC(=CN=C35)Br)Cl)Br)C(=O)N,40.5,4.6
+MK-4827,A3617,1038915-60-4,Chromatin/Epigenetics,PARP,"PARP-1/-2 inhibitor,potent and selective",C1CC(CNC1)C2=CC=C(C=C2)N3C=C4C=CC=C(C4=N3)C(=O)N,22.4,2.4
+MLN9708,A4007,1201902-80-8,Ubiquitination/Proteasome,Proteasome,Proteasome inhibitor,B1(OC(=O)CC(O1)(CC(=O)O)C(=O)O)C(CC(C)C)NC(=O)CNC(=O)C2=C(C=CC(=C2)Cl)Cl,-11.5,6.4
+Malotilate,A2486,59937-28-9,Metabolism,5-Lipoxygenase,Stimulates hepatocyte regeneration,CC(C)OC(=O)C(=C1SC=CS1)C(=O)OC(C)C,5.4,5.7
+Mebendazole,C4087,31431-39-7,Cell Cycle/Checkpoint,Microtubule/Tubulin,broad-spectrum anthelmintic that inhibits intestinal microtubule synthesis,O=C(C1=CC=C(NC(NC(OC)=O)=N2)C2=C1)C3=CC=CC=C3,25.6,8.8
+Mechlorethamine HCl,B1785,55-86-7,DNA Damage/DNA Repair,DNA/RNA Synthesis,DNA synthesis inhibitor,CN(CCCl)CCCl.Cl,25.5,4.1
+Melphalan,A4473,148-82-3,Apoptosis,Other Apoptosis,DNA alkylating agent,C1=CC(=CC=C1CC(C(=O)O)N)N(CCCl)CCCl,22.4,3.5
+Mercaptopurine (6-MP),A2355,50-44-2,DNA Damage/DNA Repair,DNA Synthesis,Purine synthesis inhibitor,C1=NC2=C(N1)C(=S)N=CN2,17.7,7.0
+Midostaurin (PKC412),B3709,120685-11-2,TGF-β / Smad Signaling,PKC,PKC inhibitor,CC12C(C(CC(O1)N3C4=CC=CC=C4C5=C6C(=C7C8=CC=CC=C8N2C7=C53)CNC6=O)N(C)C(=O)C9=CC=CC=C9)OC,8.4,2.9
+Mitomycin C,A4452,50-07-7,Apoptosis,Apoptosis Inducers,"Inhibits DNA synthesis,antibiotic and antitumor agent",NC(C1=O)=C(C)C(C2=C1[C@@H](COC(N)=O)[C@]3(OC)N2C[C@H]4[C@@H]3N4)=O,3.3,1.2
+Mitoxantrone HCl,B2114,70476-82-3,DNA Damage/DNA Repair,Topoisomerase,"Topoisomerase II inhibitor, anti-neoplastic drug",C1=CC(=C2C(=C1NCCNCCO)C(=O)C3=C(C=CC(=C3C2=O)O)O)NCCNCCO.Cl.Cl,-8.8,5.6
+Monobenzone,A8478,103-16-2,Others,Others,Skin depigmenting agent,C1=CC=C(C=C1)COC2=CC=C(C=C2)O,32.9,6.6
+Monomethyl auristatin E,A3631,474645-27-7,Cell Cycle/Checkpoint,Microtubule/Tubulin,1,1,6.1,0.5
+Mubritinib (TAK 165),B1543,366017-09-6,Tyrosine Kinase,HER2,Potent inhibitor of HER2/ErbB2,C1=CC(=CC=C1CCCCN2C=CN=N2)OCC3=COC(=N3)C=CC4=CC=C(C=C4)C(F)(F)F,48.5,3.1
+Mycophenolic acid,B1981,24280-93-1,Metabolism,Dehydrogenase,Dehydrogenase inhibitor,CC1=C(C(=C(C2=C1COC2=O)O)CC=C(C)CCC(=O)O)OC,16.8,2.0
+Napabucasin,B6029,83280-65-3,JAK/STAT Signaling,STAT,STAT3 inhibitor,CC(C(O1)=CC2=C1C(C3=CC=CC=C3C2=O)=O)=O,-4.7,4.0
+Nedaplatin,B1986,95734-82-0,GPCR/G protein,Adrenergic Receptor,DNA synthesis inhibitor,C(C(=O)O)O.[NH2-].[NH2-].[Pt+2],42.4,0.3
+Nilotinib monohydrochloride monohydrate,A3660,923288-90-8,TGF-β / Smad Signaling,Bcr-Abl,Bcr-Abl inhibitor,CC1=C(C=C(C=C1)C(=O)NC2=CC(=CC(=C2)N3C=C(N=C3)C)C(F)(F)F)NC4=NC=CC(=N4)C5=CN=CC=C5.O.Cl,41.8,13.2
+"Olaparib (AZD2281, Ku-0059436)",A4154,763113-22-0,Chromatin/Epigenetics,PARP,Potent PARP1/PARP2 inhibitor,C1CC1C(=O)N2CCN(CC2)C(=O)C3=C(C=CC(=C3)CC4=NNC(=O)C5=CC=CC=C54)F,32.7,5.8
+Oxibendazole,B1999,20559-55-1,Microbiology & Virology,Anti-infection,1,1,22.2,17.7
+Paclitaxel (Taxol),A4393,33069-62-4,Cell Cycle/Checkpoint,Microtubule/Tubulin,Antineoplastic agent,O=C(N[C@H]([C@H](C(O[C@H]1C[C@]2(O)C(C)(C)C([C@@H](OC(C)=O)C([C@@]3(C)[C@]([C@@](CO4)(OC(C)=O)[C@H]4C[C@@H]3O)([H])[C@@H]2OC(C5=CC=CC=C5)=O)=O)=C1C)=O)O)C6=CC=CC=C6)C7=CC=CC=C7,9.2,4.9
+Pelitinib (EKB-569),A1835,257933-82-7,JAK/STAT Signaling,EGFR,"EGFR inhibitor,potent and irreversible",CCOC1=C(C=C2C(=C1)N=CC(=C2NC3=CC(=C(C=C3)F)Cl)C#N)NC(=O)C=CCN(C)C,45.0,10.6
+Pexidartinib (PLX3397),B5854,1029044-16-3,Tyrosine Kinase,CSF-1R,CSF-1R inhibitor,ClC(C=N1)=CC2=C1NC=C2CC3=CN=C(NCC4=CN=C(C(F)(F)F)C=C4)C=C3,41.3,7.2
+Pimasertib (AS-703026),A5573,1236699-92-5,MAPK Signaling,MEK1/2,MEK1/2 inhibitor,C1=CC(=C(C=C1I)F)NC2=C(C=CN=C2)C(=O)NCC(CO)O,10.3,1.0
+Pracinostat (SB939),A4095,929016-96-6,DNA Damage/DNA Repair,HDAC,Pan-HDAC inhibitor,CCCCC1=NC2=C(N1CCN(CC)CC)C=CC(=C2)C=CC(=O)NO,-14.8,1.9
+Ramelteon,A1748,196597-26-9,GPCR/G protein,MT Receptor,"Agonist of melatonin receptor(M1-M2),highly selective",CCC(=O)NCCC1CCC2=C1C3=C(C=C2)OCC3,20.2,2.2
+Rasagiline Mesylate,A4366,161735-79-1,Metabolism,MAO,Irreversible MAO-B inhibitor,CS(=O)(=O)O.C#CCNC1CCC2=CC=CC=C12,31.0,6.7
+Regorafenib,A8236,755037-03-7,Tyrosine Kinase,c-RET,Inhibitor of VEGFR/PDGFR/FGFR/mutant kit/RET/Raf-1,CNC(=O)C1=NC=CC(=C1)OC2=CC(=C(C=C2)NC(=O)NC3=CC(=C(C=C3)Cl)C(F)(F)F)F,36.7,2.4
+Regorafenib hydrochloride,A3750,835621-07-3,Tyrosine Kinase,c-RET,Tyrosine kinase inhibitor,CNC(=O)C1=NC=CC(=C1)OC2=CC(=C(C=C2)NC(=O)NC3=CC(=C(C=C3)Cl)C(F)(F)F)F.Cl,44.8,4.4
+Regorafenib monohydrate,A3751,1019206-88-2,Tyrosine Kinase,c-RET,Tyrosine kinase inhibitor,CNC(=O)C1=NC=CC(=C1)OC2=CC(=C(C=C2)NC(=O)NC3=CC(=C(C=C3)Cl)C(F)(F)F)F.O,49.3,2.4
+"Rigosertib (ON-01910,Estybon)",A1404,1225497-78-8,Cell Cycle/Checkpoint,PLK,Plk1 inhibitor,COC1=C(C=C(C=C1)CS(=O)(=O)C=CC2=C(C=C(C=C2OC)OC)OC)NCC(=O)[O-].[Na+],6.8,3.4
+"Romidepsin (FK228, depsipeptide)",A8173,128517-07-7,DNA Damage/DNA Repair,HDAC,"HDAC1/HDAC2 inhibitor,potent and selective",CC=C1C(=O)NC(C(=O)OC2CC(=O)NC(C(=O)NC(CSSCCC=C2)C(=O)N1)C(C)C)C(C)C,-0.7,2.3
+Ruxolitinib phosphate,A3781,1092939-17-7,Chromatin/Epigenetics,JAK,JAK1/JAK2 inhibitor,[HH].C1CCC(C1)C(CC#N)N2C=C(C=N2)C3=C4C=CNC4=NC=N3.OOP(=O)=O,26.2,5.2
+TH-302,A3872,918633-87-1,DNA Damage/DNA Repair,Topoisomerase,"Hypoxia-activated prodrug,inhibits H460/HT29 cell growth",CN1C(=CN=C1[N+](=O)[O-])COP(=O)(NCCBr)NCCBr,-6.1,9.6
+Topotecan,B4982,123948-87-8,DNA Damage/DNA Repair,Topoisomerase,Topoisomerase 1 inhibitor,CC[C@]1(O)C(C=C2C3=NC4=CC=C(O)C(CN(C)C)=C4C=C3CN2C5=O)=C5COC1=O,-3.7,6.4
+Trametinib DMSO solvate,A3887,1187431-43-1,MAPK Signaling,MEK1/2,Allosteric MEK1/MEK2 kinase inhibitor,CC1=C2C(=C(N(C1=O)C)NC3=C(C=C(C=C3)I)F)C(=O)N(C(=O)N2C4=CC(=CC=C4)NC(=O)C)C5CC5.CS(=O)C,14.6,0.4
+Triptolide,A3891,38748-32-2,Immunology/Inflammation,NF-κB,1,1,-9.1,0.2
+Vecuronium Bromide,A5220,50700-72-6,Neuroscience,AChR,Nonpolarizing neuromuscular relaxant,CC(=O)OC1CC2CCC3C(C2(CC1N4CCCCC4)C)CCC5(C3CC(C5OC(=O)C)[N+]6(CCCCC6)C)C.[Br-],8.9,4.9
+Vincristine,A1765,2068-78-2,Cell Cycle/Checkpoint,Microtubule/Tubulin,"Microtubule disrupter,antitumor agent",O[C@]1(CC)CN(CC2)C[C@@](C1)([H])C[C@](C(OC)=O)(C3=C(OC)C=C(N(C=O)[C@]4([H])[C@@]56C7[C@](C=CCN7CC6)(CC)C(OC(C)=O)[C@@]4(C(OC)=O)O)C5=C3)C8=C2C9=CC=CC=C9N8.OS(O)(=O)=O,15.9,3.5
+Vinorelbine ditartrate,A3921,125317-39-7,Others,Others,Anti-mitotic chemotherapy drug,CCC1=CC2CC(C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC.C(C(C(=O)O)O)(C(=O)O)O.C(C(C(=O)O)O)(C(=O)O)O,-6.1,11.2
+Vitexicarpin,N1318,479-91-4,Natural Products,NF-κB,1,1,16.4,1.8
+Vortioxetine,A3926,508233-74-7,Neuroscience,5-HT Receptor,5-HT receptors antagonist,CC1=CC(=C(C=C1)SC2=CC=CC=C2N3CCNCC3)C,21.4,4.9
