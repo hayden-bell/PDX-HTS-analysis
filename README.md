@@ -2,7 +2,7 @@
 
 These scripts will analyse quantitative high-throughput drug screening data analysed by image analysis.
 
-Quality control will be performed to help identify and potential systematic errors and quality metrics (including Z' scores) are generated for reporting.
+Quality control will be performed to help identify any potential systematic errors and quality metrics (including Z' scores) are generated for reporting.
 
 LOESS normalisation will be applied to data to correct for any positional effects (with positional effects being determined by iterative intra-plate row-by-row comparisons by Welch t-tests).
 
